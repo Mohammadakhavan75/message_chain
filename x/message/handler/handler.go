@@ -1,7 +1,6 @@
 package message
 
 import (
-	"github.com/Mohammadakhavan75/message_chain/x/message/messagekeeper"
 	"github.com/Mohammadakhavan75/message_chain/x/message/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
